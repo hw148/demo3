@@ -4,9 +4,3 @@ ghughhjghj
 # asdasda
 xxx
 
-# hi
-asd
-
-# Hello
-
-Test
